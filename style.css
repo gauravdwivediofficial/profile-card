@@ -84,3 +84,6 @@ body{
     background-color: #4070f4;
     text-decoration: none;
 }
+#link{
+    background-image: linear-gradient(#feda75, #fa7e1e, #d62976, #962fbf, #4f5bd5);
+}
